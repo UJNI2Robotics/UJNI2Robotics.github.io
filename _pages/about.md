@@ -24,7 +24,7 @@ redirect_from:
 2025级研究生：杨继博，庞梦婷、张政
 <br/>
 <hr/>
-<h2 id = "publication">出版物</h2>
+<h2 id = "publications">出版物</h2>
 SCI：<br/>
 [1] Xiaoli Liu, Jianqin Yin*, Di Guo, Huaping Liu. Rich Action-semantic Consistent Knowledge for Early Action Prediction [J]. IEEE Transactions on Image Processing. 2024, 33:479 - 492. (中科院1区Top，CCF-A期刊)<br/>
 [2] Xiaoli Liu, Jianqin Yin, Jin Liu, Pengxiang Ding, Jun Liu, and Huaping Liu. TrajectoryCNN: a new spatio-temporal feature learning network for human motion prediction[J]. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2021, 31(6): 2133 - 2146. (中科院1区Top期刊)<br/>
@@ -50,7 +50,7 @@ EI：<br/>
 [8] 尹建芹, 刘小丽, 田国会, 魏军, 张玲, 徐涛. 基于关键点序列的人体动作识别[J].机器人, 2016, 38(2): 200-207. <br/>
 [9] 刘志强，尹建芹，张玲，魏军，刘小丽. 基于Kinect数据主成分分析的人体动作识别[J]. 光学精密工程. 2015,23(10) :702-711.<br/>
 <hr/>
-<h2 id = "project">项目</h2><br/>
+<h2 id = "projects">项目</h2><br/>
 1. 国家自然科学基金青年科学基金项目，复杂自然场景下知识与数据联合驱动的动态交互行为理解与识别， 2025 - 2027，在研。
 2. 国家电网有限公司科技项目，基于多专业数据融合驱动的电网设备参数化建模与动态配准技术研究，2024-2025，在研。
 3. 横向课题，智慧城市工业固废管理系统，2024-2027，在研。
@@ -66,7 +66,7 @@ EI：<br/>
 6.2019ROBOCUP机器人世界杯中国赛RoboCup家庭组技术挑战赛冠军；<br/>
 7.2018年“软银机器人杯”2018中国机器人技能大赛Pepper机器人应用（综合组）冠军<br/>
 <hr/>
-<h2 id = "patent">知识产权</h2>
+<h2 id = "patents">知识产权</h2>
 1. 陈图川，杨阳，包汉举. 一种教育机器人的路径规划方法，设备及介质，发明专利，ZL202311337408.3，2023/12/29.
 2. 杨阳，魏辉，陈图川，一种可稳定爬坡的巡检机器人，发明专利，ZL202320405183.X，2023/06/23.
 3. 陈图川，杨阳，王炫榕，智能消杀机器人，发明专利，ZL202330024367.7，2023/05/23.
