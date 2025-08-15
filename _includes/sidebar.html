@@ -2,6 +2,14 @@
 
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
+      <a href = "#">实验室介绍</a><br/>
+      <a href = "#">团队成员介绍</a><br/>
+      <a href = "#">出版物</a><br/>
+      <a href = "#">项目</a><br/>
+      <a href = "#">获奖</a><br/>
+      <a href = "#">知识产权</a><br/> 
+  </div> 
+  <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
