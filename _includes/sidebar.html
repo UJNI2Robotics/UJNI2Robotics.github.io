@@ -1,13 +1,18 @@
 {% include base_path %}
 
 {% if page.author_profile or layout.author_profile or page.sidebar %}
+.link{
+    font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+    font-size: .75em;
+    line-height: 1.5;
+}
   <div class="sidebar sticky">
-       <a href = "#introduce">实验室介绍</a><br/>
-      <a href = "#team">团队成员介绍</a><br/>
-      <a href = "#publications">出版物</a><br/>
-      <a href = "#projects">项目</a><br/>
-      <a href = "#awards">获奖</a><br/>
-      <a href = "#patents">知识产权</a><br/> 
+       <a href = "#introduce" ; class="link">实验室介绍</a><br/>
+      <a href = "#team" ; class="link">团队成员介绍</a><br/>
+      <a href = "#publications" ; class="link">出版物</a><br/>
+      <a href = "#projects" ; class="link">项目</a><br/>
+      <a href = "#awards" ; class="link">获奖</a><br/>
+      <a href = "#patents" ; class="link">知识产权</a><br/> 
       <hr/>
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}
