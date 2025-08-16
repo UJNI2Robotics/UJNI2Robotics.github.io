@@ -34,6 +34,13 @@
       <a href = "#awards" ; class="link">获奖</a>
       <a href = "#patents" ; class="link">知识产权</a>
       <hr/>
-
+ 
+      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
+      {% if s.text %}{{ s.text | markdownify }}{% endif %}
+    {% endfor %}
+    {% if page.sidebar.nav %}
+      {% include nav_list nav=page.sidebar.nav %}
+    {% endif %}
+  {% endif %}
   </div>
 {% endif %}
