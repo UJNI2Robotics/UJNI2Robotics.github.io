@@ -23,7 +23,7 @@ redirect_from:
 <br/>
 2025级研究生：杨继博、庞梦婷、张政
 <br/>
-<h2 id = "publications">出版物</h2>
+<h2 id = "publications">出版物</h2><br/>
 <h3>SCI：</h3><br/>
 [1] Xiaoli Liu, Jianqin Yin*, Di Guo, Huaping Liu. Rich Action-semantic Consistent Knowledge for Early Action Prediction [J]. IEEE Transactions on Image Processing. 2024, 33:479 - 492. (中科院1区Top，CCF-A期刊)<br/>
 [2] Xiaoli Liu, Jianqin Yin, Jin Liu, Pengxiang Ding, Jun Liu, and Huaping Liu. TrajectoryCNN: a new spatio-temporal feature learning network for human motion prediction[J]. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2021, 31(6): 2133 - 2146. (中科院1区Top期刊)<br/>
