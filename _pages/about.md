@@ -20,7 +20,6 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;济南大学信息科学与工程学院副教授，2022年毕业于北京邮电大学获得博士学位，2022-2025年北京邮电大学从事博士后研究工作。长期从事机器人感知、多模态视频理解、大模型应用等方面的研究工作，积累了丰富的项目经验和研究心得。近年来作为项目骨干参与国家自然科学基金、JW科技委重点项目、北京市自然科学基金等多项国家级和省部级项目。目前主持国家自然科学基金青年科学基金项目1项、国家电网有限公司科技项目1项。相关研究成果发表在 IEEE Transactions on Image Processing（中科院 1 区， JCR 1 区）、IEEE Transactions on Circuits System and Video Technology（中科院 1 区， JCR 1 区）、IEEE Transactions on Neural Networks and Learning Systems （中科院 1 区， JCR 1 区）等领域Top期刊和机器人等国内重要期刊。相关研究成果曾获得北京邮电大学研究生创新创业成果展一等奖；并受到商汤、聚力维度等企业的好评和关注； 在保洁等企业得到了良好推广与应用。
 <br/>
 <h3>3.研究生</h3>
-<br/>
 2024级研究生：田野、吴迪
 <br/>
 2025级研究生：杨继博、庞梦婷、张政
