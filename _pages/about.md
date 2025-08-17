@@ -9,7 +9,7 @@ redirect_from:
 ---
 <hr/>
 <head>
-  <style>
+  <style type="text/css">
      .text {
        font-size: 18px;
        margin: 0 0 1.3em;
