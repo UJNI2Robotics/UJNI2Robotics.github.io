@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <hr/>
-<h2 id = "introduce">实验室介绍</h2><br/>
+<h2 id = "introduce">实验室介绍1111</h2><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;交互智能与机器人实验室，依托济南大学信息科学与工程学院，长期从事机器人感知、人机交互、服务机器人、多模态视频理解等方面的研究工作，相关成果发表在IEEE TIP、IEEE TCSVT、IEEE TNNLS、ICRA、IROS等人工智能和机器人领域Top期刊和会议。近年来团队参加多项国际机器人大赛并获取多项冠军。相关研究成果在美国宝洁、三菱、山东商业职业技术学院等企业和职业院校得到良好的应用和推广。
 <br/>
 <h2 id = "team">团队成员介绍</h2><br/>
