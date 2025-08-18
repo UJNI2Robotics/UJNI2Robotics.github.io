@@ -94,6 +94,6 @@ redirect_from:
 </p>
 <h2 id = "recruit">招生信息</h2><br/>
 <p class="text">
-招生方向：计算机科学与技术，计算机技术
+招生方向：计算机科学与技术，计算机技术<br/>
 联系方式：刘老师，ise_liuxl@ujn.edu.cn
 </p>
